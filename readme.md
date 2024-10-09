@@ -14,8 +14,9 @@ Este projeto faz parte do **Projeto Integrador (PI)** do curso de **Desenvolvime
 
 ## Estrutura do Projeto
 
-- **frontend/**: Contém o código da interface do usuário, desenvolvido em Angular.
-- **backend/**: Contém o código da API REST, desenvolvida com Node.js, Express e MongoDB.
+- [**frontend/**](./frontend): Contém o código da interface do usuário, desenvolvido em Angular.
+- [**backend/**](./backend): Contém o código da API REST, desenvolvida com Node.js, Express e MongoDB.
+
 
 ## Tecnologias Utilizadas
 
