@@ -14,6 +14,10 @@ import { CursosDesenvolvimentoWebExecutarComponent } from './cursos-executar/cur
 import { CursosPythonExecutarComponent } from './cursos-executar/cursos-python-executar/cursos-python-executar.component';
 import { PerfilComponent } from './perfil/perfil.component';
 import { RecuperarSenhaComponent } from './recuperar-senha/recuperar-senha.component';
+import { CardCursosComponent } from './card-cursos/card-cursos.component';
+import path from 'path';
+import { Component } from '@angular/core';
+import { CursosListaComponent } from './cursos-lista/cursos-lista.component';
 
 
 export const routes: Routes = [
@@ -48,4 +52,7 @@ export const routes: Routes = [
   { path: 'contato', component: ContatoComponent },
   // Rotas administrativas e utilitárias
   { path: 'certificados', component: CertificadosComponent},
+  { path: 'card-cursos', component: CardCursosComponent},
+  {path: 'cursos-lista', component: CursosListaComponent}
+
 ];

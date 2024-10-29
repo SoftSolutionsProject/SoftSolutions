@@ -1,10 +1,6 @@
-.card-container {
-  display: flex;
-  justify-content: center;
-}
-
 .card {
   flex: 1 1 300px; /* Largura inicial dos cards */
+  min-width: 250px; /* Define uma largura mínima para maior responsividade */
   max-width: 300px; /* Largura máxima dos cards */
   background-color: #ffffff;
   border-radius: 20px;
