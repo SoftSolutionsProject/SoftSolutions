@@ -2,12 +2,9 @@
 import { Routes } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { LoginComponent } from './login/login.component';
-import { AboutComponent } from './about/about.component';
-import { CategoriaComponent } from './categoria/categoria.component';
 import { CursosComponent } from './cursos/cursos.component';
 import { QuemSomosComponent } from './quem-somos/quem-somos.component';
 import { CadastroComponent } from './cadastro/cadastro.component';
-import { TabelaComponent } from './tabela/tabela.component';
 import { CertificadosComponent } from './certificados/certificados.component';
 import { CursoDesenvolvimentoWebComponent } from './curso-desenvolvimento-web/curso-desenvolvimento-web.component';
 import { ContatoComponent } from './contato/contato.component';
@@ -35,8 +32,7 @@ export const routes: Routes = [
   { path: 'login', component: LoginComponent },
   { path: 'cadastro', component: CadastroComponent },
   { path: 'recuperar-senha', component: RecuperarSenhaComponent },
-  // Rotas protegidas
-  { path: 'categoria', component: CategoriaComponent},
+
   // Rotas de perfil e usuário
   { path: 'perfil', component: PerfilComponent},
 
@@ -48,10 +44,8 @@ export const routes: Routes = [
   { path: 'curso-desenvolvimento-web-executar', component: CursosDesenvolvimentoWebExecutarComponent },
   { path: 'curso-python-iniciante-executar', component: CursosPythonExecutarComponent},
   // Rotas informativas
-  { path: 'about', component: AboutComponent },
   { path: 'quem-somos', component: QuemSomosComponent },
   { path: 'contato', component: ContatoComponent },
   // Rotas administrativas e utilitárias
-  { path: 'tabela', component: TabelaComponent },
   { path: 'certificados', component: CertificadosComponent},
 ];
