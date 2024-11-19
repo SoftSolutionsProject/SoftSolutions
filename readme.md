@@ -8,7 +8,7 @@
     <a href="#backlogs">Backlogs & User Stories</a>  |  
     <a href="#prototipo">Protótipo & Documentação</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
-    <a href="#equipe">Equipe</a>
+    <a href="#equipe">Equipe </a>
 </p>
    
 <span id="sobre"> 
