@@ -8,10 +8,11 @@
     <a href="#backlogs">Backlogs & User Stories</a>  |  
     <a href="#prototipo">Protótipo & Documentação</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
-    <a href="#equipe">Equipe </a>
+    <a href="#equipe">Equipe</a>  |
+    <a href="#documentacao">Documentação Geral</a>
 </p>
    
-<span id="sobre"> 
+<span id="sobre">
 
 ## Sobre o projeto
 Este projeto faz parte do **Projeto Integrador (PI)** do curso de **Desenvolvimento de Software Multiplataformas** da **Faculdade de Tecnologia de Votorantim (FATEC)**. O objetivo é desenvolver uma plataforma online de cursos chamada **SoftSolutions**, onde estudantes podem acessar cursos na área de tecnologia, obter certificações e contar com suporte contínuo após a conclusão dos cursos. A plataforma será desenvolvida com foco em tecnologias modernas, priorizando a usabilidade, acessibilidade e a segurança dos dados dos alunos.
@@ -19,6 +20,14 @@ Este projeto faz parte do **Projeto Integrador (PI)** do curso de **Desenvolvime
 
 Status do Projeto: **Em andamento** 
 
+### 🏁 Entregas de Sprints
+Cada entrega foi realizada a partir da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. As funcionalidades da plataforma já implementadas poderão ser acessadas ao final desse documento, no link microsserviçoes. De outra forma, toda a parte visual do site poderá ser acessada através da relação de entregas a seguir:
+| Sprint | Início | Status | Histórico |
+|:--:|:----------:|:----------------|:-------------------------------------------------:|
+| 01 | 01/08/2024 | 🕒 Em andamento    | [ver relatório](https://github.com/SoftSolutionsProject/SoftSolutions/blob/main/DOCUMENTACAO/sprint%201/readmeSprint1.md) |
+| 02 | 01/09/2024 | 🕒 Em andamento    | [ver relatório](https://github.com/SoftSolutionsProject/SoftSolutions/blob/main/DOCUMENTACAO/sprint%202/readmeSprint2.md) |
+| 03 | 01/10/2024 | 🕒 Em andamento    | [ver relatório](https://github.com/SoftSolutionsProject/SoftSolutions/blob/main/DOCUMENTACAO/sprint%203/readmeSprint3.md) |
+| 04 | 01/11/2024 | 🕒 Em andamento    | [ver relatório](https://github.com/SoftSolutionsProject/SoftSolutions/blob/main/DOCUMENTACAO/sprint%204/readmeSprint4.md) |
 
 <span id="backlogs">
 
@@ -49,10 +58,11 @@ Devido à arquitetura orientada a microsserviços adotada na plataforma SoftSolu
     
 > 🔗 **Links gerais** <br>
 > - Documentação do software: [clique aqui para acessar](https://github.com/SoftSolutionsProject/SoftSolutions/tree/0932283a29cb3ae6b0b7052d5e507ce448fa0b1d/DOCUMENTACAO)
+> - Sobre o projeto: [clique aqui para acessar](https://github.com/SoftSolutionsProject/SoftSolutions/blob/0932283a29cb3ae6b0b7052d5e507ce448fa0b1d/readme.md)
 > - Links para os repositórios criados:
 >    - **Frontend:** [clique aqui para acessar](https://github.com/SoftSolutionsProject/SoftSolutions/tree/0932283a29cb3ae6b0b7052d5e507ce448fa0b1d/frontend)
 >    - **Microsserviços (backend):** [clique aqui para acessar](https://github.com/SoftSolutionsProject/SoftSolutions/tree/0932283a29cb3ae6b0b7052d5e507ce448fa0b1d/backend)
->      
+>    - **Backlog (JIRA):** [clique aqui para acessar](https://notaro.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?epics=visible)
 
 → [Voltar ao topo](#topo)
 
