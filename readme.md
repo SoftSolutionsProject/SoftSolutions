@@ -24,8 +24,8 @@ Status do Projeto: **Em andamento**
 Cada entrega foi realizada a partir da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. As funcionalidades da plataforma já implementadas poderão ser acessadas ao final desse documento, no link microsserviçoes. De outra forma, toda a parte visual do site poderá ser acessada através da relação de entregas a seguir:
 | Sprint | Início | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
-| 01 | 01/08/2024 | 🕒 Em andamento    | [ver relatório](https://github.com/SoftSolutionsProject/SoftSolutions/blob/main/DOCUMENTACAO/sprint%201/readmeSprint1.md) |
-| 02 | 01/09/2024 | 🕒 Em andamento    | [ver relatório](https://github.com/SoftSolutionsProject/SoftSolutions/blob/main/DOCUMENTACAO/sprint%202/readmeSprint2.md) |
+| 01 | 01/08/2024 | ✅ Concluído    | [ver relatório](https://github.com/SoftSolutionsProject/SoftSolutions/blob/main/DOCUMENTACAO/sprint%201/readmeSprint1.md) |
+| 02 | 01/09/2024 | ✅ Concluído    | [ver relatório](https://github.com/SoftSolutionsProject/SoftSolutions/blob/main/DOCUMENTACAO/sprint%202/readmeSprint2.md) |
 | 03 | 01/10/2024 | 🕒 Em andamento    | [ver relatório](https://github.com/SoftSolutionsProject/SoftSolutions/blob/main/DOCUMENTACAO/sprint%203/readmeSprint3.md) |
 | 04 | 01/11/2024 | 🕒 Em andamento    | [ver relatório](https://github.com/SoftSolutionsProject/SoftSolutions/blob/main/DOCUMENTACAO/sprint%204/readmeSprint4.md) |
 
